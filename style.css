@@ -85,7 +85,7 @@ body {
 }
 
 .qr-code-component__title {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
@@ -94,13 +94,4 @@ body {
   color: hsl(220, 15%, 55%);
 }
 
-/* Footer */
-
-.attribution { 
-  font-size: 11px; text-align: center; 
-}
-
-.attribution a { 
-  color: hsl(228, 45%, 44%); 
-}
 
